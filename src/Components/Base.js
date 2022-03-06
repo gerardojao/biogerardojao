@@ -10,7 +10,7 @@ const Base = () => {
         <div className="home__content">
             <Title />
             <Linkbio />
-           <Network />
+            <Network />
         </div>
     </div>
 </section>
