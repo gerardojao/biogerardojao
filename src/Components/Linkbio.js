@@ -1,7 +1,7 @@
 import {useState} from 'react'
 import data from "../Data"
 import Loader from "./Loader"
-import CV from "../assets/CV Gerardo Arrieta.pdf"
+
 
 const Linkbio = () => {
     const [loading, setLoading] = useState(true)
