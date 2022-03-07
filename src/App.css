@@ -15,7 +15,7 @@
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   display: flex;
   height: 100vh;
-  background: url("./assets/deskOld.jpg") fixed no-repeat;
+  background: url("./assets/deskOld.jpeg") fixed no-repeat;
   background-size: cover;
   /* background-color: #111; */
   color: #fff;
