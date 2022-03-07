@@ -29,7 +29,6 @@
 }
 .home__content {
   padding: 20px;
-
   width: 75vw;
   height: 85vh;
   background: rgba(2, 2, 2, 0.2);
@@ -70,12 +69,7 @@ hr {
   border-radius: 50px;
   padding: 1rem;
 }
-.list-container:hover {
-  background-color: #222;
-}
-.list-container:hover ~ a {
-  color: #fff;
-}
+
 .list-container a {
   text-decoration: none;
   list-style: none;
@@ -105,6 +99,27 @@ footer .rrss a [title] {
   color: #fff;
   background: none;
 }
+
+.button-download {
+  display: inline-block;
+  color: #fff;
+  background-color: transparent;
+  text-decoration: none;
+  padding: 12px 36px;
+  margin-bottom: 25px;
+  border-radius: 6px;
+  border: 2px solid #fff;
+  transition: all 0.3s ease;
+}
+.button-download:hover {
+  color: #222;
+  font-weight: 700;
+  background-color: #fff;
+
+  border: 2px solid #fff;
+  transition: all 0.3s ease;
+}
+
 @media screen and (min-width: 768px) {
   .home__content {
     padding: 20px;
