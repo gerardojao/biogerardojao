@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/biogerardojao/static/css/main.b492891c.css",
-    "main.js": "/biogerardojao/static/js/main.5808f7eb.js",
+    "main.css": "/biogerardojao/static/css/main.e382df3c.css",
+    "main.js": "/biogerardojao/static/js/main.94f57c1a.js",
     "static/js/787.d5a2956b.chunk.js": "/biogerardojao/static/js/787.d5a2956b.chunk.js",
     "static/media/deskOld.jpg": "/biogerardojao/static/media/deskOld.106e86008bc54f75d769.jpg",
+    "static/media/CV Gerardo Arrieta.pdf": "/biogerardojao/static/media/CV Gerardo Arrieta.106fab5835521328ae58.pdf",
     "index.html": "/biogerardojao/index.html",
-    "main.b492891c.css.map": "/biogerardojao/static/css/main.b492891c.css.map",
-    "main.5808f7eb.js.map": "/biogerardojao/static/js/main.5808f7eb.js.map",
+    "main.e382df3c.css.map": "/biogerardojao/static/css/main.e382df3c.css.map",
+    "main.94f57c1a.js.map": "/biogerardojao/static/js/main.94f57c1a.js.map",
     "787.d5a2956b.chunk.js.map": "/biogerardojao/static/js/787.d5a2956b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b492891c.css",
-    "static/js/main.5808f7eb.js"
+    "static/css/main.e382df3c.css",
+    "static/js/main.94f57c1a.js"
   ]
 }
