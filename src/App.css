@@ -119,6 +119,9 @@ footer .rrss a [title] {
   border: 2px solid #fff;
   transition: all 0.3s ease;
 }
+.hiddenIcon {
+  display: none;
+}
 
 @media screen and (min-width: 768px) {
   .home__content {
@@ -141,5 +144,52 @@ footer .rrss a [title] {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
+  }
+}
+@media screen and (max-height: 420px) {
+  .home {
+    display: flex;
+    height: 100vh;
+
+    min-height: 0;
+  }
+
+  .home__container {
+    z-index: 0;
+    height: 85%;
+  }
+  .home__content {
+    width: 60vw;
+    height: 85vh;
+    padding: 0 0 5px 0;
+  }
+  .list-container {
+    margin-bottom: 1.5rem;
+    padding: 0.5rem;
+    width: 60%;
+  }
+  .button-download {
+    padding: 8px 24px;
+    border-radius: 6px;
+    margin-bottom: 0px;
+  }
+  .hiddenIcon {
+    display: inline-block;
+  }
+  .hiddenDownload {
+    display: none;
+  }
+
+  footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10px;
+  }
+  footer .rsss {
+    margin-bottom: 0;
+  }
+  br {
+    display: none;
   }
 }
