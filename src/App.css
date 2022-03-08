@@ -193,3 +193,11 @@ footer .rrss a [title] {
     display: none;
   }
 }
+@media screen and (max-height: 375px) {
+  .list-container {
+    margin: auto;
+  }
+  .list-container {
+    margin-bottom: 20px;
+  }
+}
