@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from "../assets/CV Gerardo Arrieta.pdf"
+import CV from "../assets/CV.pdf"
 
 const Network = () => {
   return (
