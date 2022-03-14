@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/biogerardojao/static/css/main.ab0ab504.css",
-    "main.js": "/biogerardojao/static/js/main.fcecf556.js",
+    "main.js": "/biogerardojao/static/js/main.05ee602b.js",
     "static/media/deskOld.jpeg": "/biogerardojao/static/media/deskOld.106e86008bc54f75d769.jpeg",
-    "static/media/CV Gerardo Arrieta.pdf": "/biogerardojao/static/media/CV Gerardo Arrieta.106fab5835521328ae58.pdf",
+    "static/media/CV.pdf": "/biogerardojao/static/media/CV.8e13df3a1f30cd59030c.pdf",
     "index.html": "/biogerardojao/index.html",
     "main.ab0ab504.css.map": "/biogerardojao/static/css/main.ab0ab504.css.map",
-    "main.fcecf556.js.map": "/biogerardojao/static/js/main.fcecf556.js.map"
+    "main.05ee602b.js.map": "/biogerardojao/static/js/main.05ee602b.js.map"
   },
   "entrypoints": [
     "static/css/main.ab0ab504.css",
-    "static/js/main.fcecf556.js"
+    "static/js/main.05ee602b.js"
   ]
 }
