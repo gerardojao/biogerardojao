@@ -8,7 +8,7 @@ const Title = () => {
   
     <Typed
                 strings={[
-                   " Frontend Developer"]}
+                   " Frontend Developer", "Backend Developer"]}
                     typeSpeed={120}
                     backSpeed={50}
                     loop >
