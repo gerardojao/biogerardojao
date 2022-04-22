@@ -14,7 +14,7 @@ const Linkbio = () => {
      {loading ? <Loader />: <ul>
         { data.map(item=>(
          
-            <li className="list-container" key={item.id}><a href={item.link}  target="_blank" rel="noreferrer">{item.name} </a></li>)
+            <li style={{maxWidth:"50px"}} className="list-container" key={item.id}><a href={item.link}  target="_blank" rel="noreferrer">{item.name} </a></li>)
         )}
     </ul> }
   
@@ -26,3 +26,12 @@ const Linkbio = () => {
 }
 
 export default Linkbio
+
+// "scripts": {
+//   "predeploy": "npm run build",
+//   "deploy": "gh-pages -d build",
+//   "start": "react-scripts start",
+//   "build": "react-scripts build",
+//   "test": "react-scripts test",
+//   "eject": "react-scripts eject"
+// },
