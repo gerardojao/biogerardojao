@@ -21,12 +21,9 @@ export default [
     {
         id:4,
         link:"https://axelfas.github.io/ebook/",
-<<<<<<< HEAD
-        name:"Ebook Programar a los 40s"
-=======
         name:"Ebook Programar a los 40's"
->>>>>>> d44d8a47b63de9d37cd230b85722c8c68e0d5893
-        
+
+  
     }
  
 ]

@@ -14,7 +14,7 @@ const Linkbio = () => {
      {loading ? <Loader />: <ul>
         { data.map(item=>(
          
-            <li style={{maxWidth:"50px"}} className="list-container" key={item.id}><a href={item.link}  target="_blank" rel="noreferrer">{item.name} </a></li>)
+            <li  className="list-container" key={item.id}><a href={item.link}  target="_blank" rel="noreferrer">{item.name} </a></li>)
         )}
     </ul> }
   
