@@ -2,7 +2,7 @@
 export default [
     {
         id:1,
-        link:"https://gerardojao.github.io/gerardojao/#portfolio",
+        link:"https://gerardojao.vercel.app/",
         name:"Portfolio"
       
     },
@@ -14,14 +14,14 @@ export default [
     },
     {
         id:3,
-        link:"https://www.youtube.com/watch?v=i-qtA-DvmcU&feature=youtu.be&ab_channel=Gerardojao",
+        link:"https://www.youtube.com/channel/UCA1YYc0kepUu-5-598qnNIw",
         name:"Youtube Channel"
         
     },
     {
         id:4,
-        link:"https://gerardojao.gumroad.com/l/programaralos40",
-        name:"Ebook Programar a los 40´s"
+        link:"https://axelfas.github.io/ebook/",
+        name:"Ebook Programar a los 40's"
         
     }
  
