@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/biogerardojao/static/css/main.ab0ab504.css",
-    "main.js": "/biogerardojao/static/js/main.a3a19d3e.js",
+    "main.css": "/biogerardojao/static/css/main.99cf2c4a.css",
+    "main.js": "/biogerardojao/static/js/main.965f08af.js",
     "static/media/deskOld.jpeg": "/biogerardojao/static/media/deskOld.106e86008bc54f75d769.jpeg",
-    "static/media/CV.pdf": "/biogerardojao/static/media/CV.8e13df3a1f30cd59030c.pdf",
+    "static/media/CV.pdf": "/biogerardojao/static/media/CV.ee9fb2939cdb6fcfcaa6.pdf",
     "index.html": "/biogerardojao/index.html",
-    "main.ab0ab504.css.map": "/biogerardojao/static/css/main.ab0ab504.css.map",
-    "main.a3a19d3e.js.map": "/biogerardojao/static/js/main.a3a19d3e.js.map"
+    "main.99cf2c4a.css.map": "/biogerardojao/static/css/main.99cf2c4a.css.map",
+    "main.965f08af.js.map": "/biogerardojao/static/js/main.965f08af.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab0ab504.css",
-    "static/js/main.a3a19d3e.js"
+    "static/css/main.99cf2c4a.css",
+    "static/js/main.965f08af.js"
   ]
 }
