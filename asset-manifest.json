@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/biogerardojao/static/css/main.99cf2c4a.css",
-    "main.js": "/biogerardojao/static/js/main.965f08af.js",
+    "main.js": "/biogerardojao/static/js/main.3ce98c37.js",
     "static/media/deskOld.jpeg": "/biogerardojao/static/media/deskOld.106e86008bc54f75d769.jpeg",
     "static/media/CV.pdf": "/biogerardojao/static/media/CV.ee9fb2939cdb6fcfcaa6.pdf",
     "index.html": "/biogerardojao/index.html",
     "main.99cf2c4a.css.map": "/biogerardojao/static/css/main.99cf2c4a.css.map",
-    "main.965f08af.js.map": "/biogerardojao/static/js/main.965f08af.js.map"
+    "main.3ce98c37.js.map": "/biogerardojao/static/js/main.3ce98c37.js.map"
   },
   "entrypoints": [
     "static/css/main.99cf2c4a.css",
-    "static/js/main.965f08af.js"
+    "static/js/main.3ce98c37.js"
   ]
 }
