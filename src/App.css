@@ -167,13 +167,7 @@ footer .rrss a [title] {
   } 
 }
 @media screen and (max-width: 768px) {
- .logoTitle{
-  /* flex-direction: column; */
- }
- .logoTitle a img{
-  
-  /* display:none; */
- }
+ 
  .home__content--1{
   font-size: 1.3rem;
  }
