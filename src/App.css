@@ -5,11 +5,7 @@
   text-align: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+
 
 .home {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -36,6 +32,7 @@
   display: grid;
   grid-template-rows: auto 1fr auto;
   align-items: center;
+
 }
 hr {
   width: 70%;
@@ -44,13 +41,33 @@ hr {
 }
 
 .home__content--1 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   margin-bottom: 0.5rem;
-  font-weight: 900;
+  font-weight: 900; 
+  width: 100%;
 }
 .home__content--1 span {
   font-size: 2rem;
 }
+.containerTitle{
+ 
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logoTitle{
+ 
+  display: flex;
+  align-items: center;  
+ min-width: 85%;
+ justify-content: center;
+}
+
+.logoTitle a img{
+  width: 80px;
+border-radius: 50%;
+ }
+
 .inputTyped {
   border: none;
   outline: hidden;
@@ -147,8 +164,36 @@ footer .rrss a [title] {
     width: 75%;
     margin-left: auto;
     margin-right: auto;
-  }
+  } 
 }
+@media screen and (max-width: 768px) {
+ .logoTitle{
+  /* flex-direction: column; */
+ }
+ .logoTitle a img{
+  
+  /* display:none; */
+ }
+ .home__content--1{
+  font-size: 1.3rem;
+ }
+ .button-download{
+  margin-bottom: 5px;;
+ }
+}
+@media screen and (max-width: 375px) {
+
+  .home__content--1{
+   font-size: 1.2rem;
+  }
+  .button-download{
+    margin-bottom: 0;
+   }
+body{
+  max-height: 100%;
+}
+ }
+
 @media screen and (max-height: 420px) {
   .home {
     display: flex;
@@ -166,6 +211,7 @@ footer .rrss a [title] {
     height: 85vh;
     padding: 0 0 5px 0;
   }
+ 
   .list-container {
     margin-bottom: 1.5rem;
     padding: 0.5rem;
@@ -195,6 +241,7 @@ footer .rrss a [title] {
   br {
     display: none;
   }
+  
 }
 @media screen and (max-height: 375px) {
   .list-container {
@@ -203,4 +250,5 @@ footer .rrss a [title] {
   .list-container {
     margin-bottom: 20px;
   }
+ 
 }
